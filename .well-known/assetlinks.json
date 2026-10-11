@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smoothstudio.almie",
+      "sha256_cert_fingerprints": ["20:34:A7:14:A4:FB:A6:BF:F1:31:13:02:D7:FF:6F:A1:15:99:BC:7B:D2:5C:14:EB:0A:44:8A:E8:34:B1:C0:0F"]
+    }
+  }
+]
