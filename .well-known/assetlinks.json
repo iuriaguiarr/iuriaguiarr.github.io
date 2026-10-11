@@ -1,10 +1,15 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.smoothstudio.almie",
-      "sha256_cert_fingerprints": ["20:34:A7:14:A4:FB:A6:BF:F1:31:13:02:D7:FF:6F:A1:15:99:BC:7B:D2:5C:14:EB:0A:44:8A:E8:34:B1:C0:0F"]
+      "sha256_cert_fingerprints": [
+        "20:34:A7:14:A4:FB:A6:BF:F1:31:13:02:D7:FF:6F:A1:15:99:BC:7B:D2:5C:14:EB:0A:44:8A:E8:34:B1:C0:0F",
+        "F8:8C:6C:69:CA:12:D0:0A:1D:9E:79:C7:13:5D:BE:01:E8:75:7B:A0:37:2B:18:08:98:8C:DC:49:9B:62:26:66"
+      ]
     }
   }
 ]
